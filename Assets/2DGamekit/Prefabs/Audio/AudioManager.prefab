@@ -1,5 +1,68 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1006535914607164712
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2210619674221862878}
+  - component: {fileID: 644460292927741878}
+  m_Layer: 0
+  m_Name: Ambiance
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2210619674221862878
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1006535914607164712}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4318290237554146966}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &644460292927741878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1006535914607164712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: FMODUnity::FMODUnity.StudioEventEmitter
+  CollisionTag: 
+  EventReference:
+    Guid:
+      Data1: 185609743
+      Data2: 1074118327
+      Data3: 1551838360
+      Data4: 790054806
+    Path: event:/Sound Design/Ambience/Ambience
+  Event: 
+  EventPlayTrigger: 0
+  EventStopTrigger: 0
+  AllowFadeout: 1
+  TriggerOnce: 0
+  Preload: 0
+  NonRigidbodyVelocity: 0
+  Params: []
+  OverrideAttenuation: 0
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
 --- !u!1 &1146472850133498800
 GameObject:
   m_ObjectHideFlags: 0
@@ -288,6 +351,7 @@ Transform:
   - {fileID: 5138542554865848846}
   - {fileID: 4782723540720384308}
   - {fileID: 4170848698623866482}
+  - {fileID: 2210619674221862878}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4318290237554146967
@@ -310,13 +374,14 @@ MonoBehaviour:
     musicBoss: {fileID: 3257842776572977270}
     musicPause: {fileID: 4860983653683116548}
     snapShotPause: {fileID: 7484880938483047845}
+    ambiance: {fileID: 0}
   playerFootsteps:
     Guid:
-      Data1: 1753858269
-      Data2: 1213639741
-      Data3: 1279823770
-      Data4: 2038261246
-    Path: event:/Sound Design/Player/Player_Gun_Attack
+      Data1: 280176199
+      Data2: 1207372842
+      Data3: 1309995158
+      Data4: 998262555
+    Path: event:/Sound Design/Player/PlayerFootsteps
   playerJump:
     Guid:
       Data1: 0
@@ -338,6 +403,13 @@ MonoBehaviour:
       Data3: 0
       Data4: 0
     Path: 
+  playerAttackRanged:
+    Guid:
+      Data1: 1753858269
+      Data2: 1213639741
+      Data3: 1279823770
+      Data4: 2038261246
+    Path: event:/Sound Design/Player/PlayerAttackRanged
   playerHurt:
     Guid:
       Data1: 0

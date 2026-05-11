@@ -451,10 +451,10 @@ MonoBehaviour:
   m_Name: FMODStudioSettings
   m_EditorClassIdentifier: 
   switchSettingsMigration: 1
-  HasSourceProject: 0
-  HasPlatforms: 0
-  sourceProjectPath: 
-  sourceBankPath: ../../../../../../Temp/2D_GameKit_Music_2024/ME219G_Unity_SoundDesign_2026/Assets/Plugins/FMOD/Banks/Desktop
+  HasSourceProject: 1
+  HasPlatforms: 1
+  sourceProjectPath: ../../b25gabjo Fmod/b25gabjo_FMOD_Slutprojekt/b25gabjo_FMOD_SlutProjekt.fspro
+  sourceBankPath: ../../b25gabjo Fmod/b25gabjo_FMOD_Slutprojekt/Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1
@@ -476,7 +476,7 @@ MonoBehaviour:
   RealChannelSettings: []
   Plugins: []
   MasterBanks:
-  - Desktop/Master Bank
+  - Master Bank
   Banks: []
   BanksToLoad:
   - Master Bank

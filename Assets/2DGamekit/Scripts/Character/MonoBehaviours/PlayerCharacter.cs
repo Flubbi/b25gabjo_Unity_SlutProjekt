@@ -314,6 +314,7 @@ namespace Gamekit2D
                 }
                 yield return null;
             }
+            audioManager.PlayRanged();
         }
 
         protected void SpawnBullet()
