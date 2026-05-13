@@ -384,11 +384,11 @@ MonoBehaviour:
     Path: event:/Sound Design/Player/PlayerFootsteps
   playerJump:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1798975202
+      Data2: 1139148375
+      Data3: -1904530801
+      Data4: 1370724419
+    Path: event:/Sound Design/Player/PlayerJump
   playerLand:
     Guid:
       Data1: 0
@@ -398,18 +398,18 @@ MonoBehaviour:
     Path: 
   playerAttackMelee:
     Guid:
+      Data1: 466249254
+      Data2: 1274838981
+      Data3: -873663312
+      Data4: 932786655
+    Path: event:/Sound Design/Player/PlayerAttackMelee
+  playerAttackRanged:
+    Guid:
       Data1: 0
       Data2: 0
       Data3: 0
       Data4: 0
     Path: 
-  playerAttackRanged:
-    Guid:
-      Data1: 1753858269
-      Data2: 1213639741
-      Data3: 1279823770
-      Data4: 2038261246
-    Path: event:/Sound Design/Player/PlayerAttackRanged
   playerHurt:
     Guid:
       Data1: 0
