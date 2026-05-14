@@ -391,11 +391,11 @@ MonoBehaviour:
     Path: event:/Sound Design/Player/PlayerJump
   playerLand:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -838625559
+      Data2: 1165868392
+      Data3: -694183751
+      Data4: 2072451612
+    Path: event:/Sound Design/Player/PlayerLand
   playerAttackMelee:
     Guid:
       Data1: 466249254
