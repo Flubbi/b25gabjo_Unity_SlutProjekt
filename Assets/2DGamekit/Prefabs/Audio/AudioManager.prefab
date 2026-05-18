@@ -405,25 +405,25 @@ MonoBehaviour:
     Path: event:/Sound Design/Player/PlayerAttackMelee
   playerAttackRanged:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1753858269
+      Data2: 1213639741
+      Data3: 1279823770
+      Data4: 2038261246
+    Path: event:/Sound Design/Player/PlayerAttackRanged
   playerHurt:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 361423959
+      Data2: 1305286882
+      Data3: 871488933
+      Data4: -423121726
+    Path: event:/Sound Design/Player/PlayerHurt
   wallDestroy:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1274065263
+      Data2: 1135830971
+      Data3: 392863378
+      Data4: -1996885085
+    Path: event:/Sound Design/Interactables/BreakableWall
   pickupHealth:
     Guid:
       Data1: 0
@@ -447,11 +447,11 @@ MonoBehaviour:
     Path: 
   pickupKey:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -955140421
+      Data2: 1321974467
+      Data3: 1635597711
+      Data4: -899258206
+    Path: event:/Sound Design/Interactables/KeyPickup
   pressurePad:
     Guid:
       Data1: 0
@@ -496,11 +496,11 @@ MonoBehaviour:
     Path: 
   enemyRanged:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -704316350
+      Data2: 1158180643
+      Data3: 2121416103
+      Data4: -1390632910
+    Path: event:/Sound Design/Enemies/Spitter_Atk
   enemyMelee:
     Guid:
       Data1: 0
@@ -510,11 +510,11 @@ MonoBehaviour:
     Path: 
   enemyDeath:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 429951921
+      Data2: 1093938352
+      Data3: 1389409168
+      Data4: -508440935
+    Path: event:/Sound Design/Enemies/EnemyDeath
   stingerGameOver:
     Guid:
       Data1: 715162006
