@@ -29079,12 +29079,12 @@ PrefabInstance:
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: enemyRanged.Path
-      value: event:/Sound Design/Enemies/Spitter_Atk
+      value: event:/Sound Design/Enemies/SpitterAtk
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: wallDestroy.Path
-      value: event:/Sound Design/Environment/BreakableWall
+      value: event:/Sound Design/Interactables/BreakableWall
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
@@ -29114,22 +29114,22 @@ PrefabInstance:
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: enemyRanged.Guid.Data1
-      value: -704316350
+      value: -440920589
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: enemyRanged.Guid.Data2
-      value: 1158180643
+      value: 1246051426
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: enemyRanged.Guid.Data3
-      value: 2121416103
+      value: -2105982288
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: enemyRanged.Guid.Data4
-      value: -1390632910
+      value: 638874629
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
