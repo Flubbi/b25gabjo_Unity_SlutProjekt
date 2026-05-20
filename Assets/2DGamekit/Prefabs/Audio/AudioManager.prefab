@@ -51,7 +51,7 @@ MonoBehaviour:
       Data2: 1074118327
       Data3: 1551838360
       Data4: 790054806
-    Path: event:/Sound Design/Ambience/Ambience
+    Path: event:/Sound Design/Ambiance/Amb_Outside
   Event: 
   EventPlayTrigger: 0
   EventStopTrigger: 0
@@ -381,49 +381,49 @@ MonoBehaviour:
       Data2: 1207372842
       Data3: 1309995158
       Data4: 998262555
-    Path: event:/Sound Design/Player/PlayerFootsteps
+    Path: event:/Sound Design/Player/Player_Footsteps
   playerJump:
     Guid:
       Data1: 1798975202
       Data2: 1139148375
       Data3: -1904530801
       Data4: 1370724419
-    Path: event:/Sound Design/Player/PlayerJump
+    Path: event:/Sound Design/Player/Player_Jump
   playerLand:
     Guid:
       Data1: -838625559
       Data2: 1165868392
       Data3: -694183751
       Data4: 2072451612
-    Path: event:/Sound Design/Player/PlayerLand
+    Path: event:/Sound Design/Player/Player_Land
   playerAttackMelee:
     Guid:
       Data1: 466249254
       Data2: 1274838981
       Data3: -873663312
       Data4: 932786655
-    Path: event:/Sound Design/Player/PlayerAttackMelee
+    Path: event:/Sound Design/Player/Player_Atk_Melee
   playerAttackRanged:
     Guid:
       Data1: 1753858269
       Data2: 1213639741
       Data3: 1279823770
       Data4: 2038261246
-    Path: event:/Sound Design/Player/PlayerAttackRanged
+    Path: event:/Sound Design/Player/Player_Atk_Ranged
   playerHurt:
     Guid:
       Data1: 361423959
       Data2: 1305286882
       Data3: 871488933
       Data4: -423121726
-    Path: event:/Sound Design/Player/PlayerHurt
+    Path: event:/Sound Design/Player/Player_Hurt
   wallDestroy:
     Guid:
       Data1: -1274065263
       Data2: 1135830971
       Data3: 392863378
       Data4: -1996885085
-    Path: event:/Sound Design/Interactables/BreakableWall
+    Path: event:/Sound Design/Interactables/Breakable_Wall
   pickupHealth:
     Guid:
       Data1: 0
@@ -451,7 +451,7 @@ MonoBehaviour:
       Data2: 1321974467
       Data3: 1635597711
       Data4: -899258206
-    Path: event:/Sound Design/Interactables/KeyPickup
+    Path: event:/Sound Design/Interactables/Key_Pickup
   pressurePad:
     Guid:
       Data1: 0
@@ -496,10 +496,10 @@ MonoBehaviour:
     Path: 
   enemyRanged:
     Guid:
-      Data1: -704316350
-      Data2: 1158180643
-      Data3: 2121416103
-      Data4: -1390632910
+      Data1: -440920589
+      Data2: 1246051426
+      Data3: -2105982288
+      Data4: 638874629
     Path: event:/Sound Design/Enemies/Spitter_Atk
   enemyMelee:
     Guid:
@@ -514,7 +514,7 @@ MonoBehaviour:
       Data2: 1093938352
       Data3: 1389409168
       Data4: -508440935
-    Path: event:/Sound Design/Enemies/EnemyDeath
+    Path: event:/Sound Design/Enemies/Enemy_Death
   stingerGameOver:
     Guid:
       Data1: 715162006

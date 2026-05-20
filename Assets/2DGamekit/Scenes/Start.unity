@@ -29074,22 +29074,22 @@ PrefabInstance:
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: playerHurt.Path
-      value: event:/Sound Design/Player/PlayerHurt
+      value: event:/Sound Design/Player/Player_Hurt
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: enemyRanged.Path
-      value: event:/Sound Design/Enemies/SpitterAtk
+      value: event:/Sound Design/Enemies/Spitter_Atk
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: wallDestroy.Path
-      value: event:/Sound Design/Interactables/BreakableWall
+      value: event:/Sound Design/Interactables/Breakable_Wall
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: playerFootsteps.Path
-      value: event:/Sound Design/Player/PlayerFootsteps
+      value: event:/Sound Design/Player/Player_Footsteps
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
@@ -29154,7 +29154,7 @@ PrefabInstance:
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: playerAttackRanged.Path
-      value: event:/Sound Design/Player/PlayerAttackRanged
+      value: event:/Sound Design/Player/Player_Atk_Ranged
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
