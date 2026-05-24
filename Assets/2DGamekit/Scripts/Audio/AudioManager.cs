@@ -201,16 +201,16 @@ public class AudioManager : MonoBehaviour
         switch(surface)
         {
             case "Grass":
-                playerFootstepInstance.setParameterByName("Surface", 0f);
+                playerLandInstance.setParameterByName("Surface", 0f);
                 break;
             case "Rock":
-                playerFootstepInstance.setParameterByName("Surface", 1f);
+                playerLandInstance.setParameterByName("Surface", 1f);
                 break;
             case "Metal":
-                playerFootstepInstance.setParameterByName("Surface", 2f);
+                playerLandInstance.setParameterByName("Surface", 2f);
                 break;
             default:
-                playerFootstepInstance.setParameterByName("Surface", 0f);
+                playerLandInstance.setParameterByName("Surface", 0f);
                 break;
         }
         playerLandInstance.start();
@@ -234,7 +234,7 @@ public class AudioManager : MonoBehaviour
             Debug.LogWarning("Fmod event not found: playerAttackRanged");
             return;
         }
-        RuntimeManager.PlayOneShot(playerAttackMelee,transform.position);
+        RuntimeManager.PlayOneShot(playerAttackRanged,transform.position);
     }
 	
 
