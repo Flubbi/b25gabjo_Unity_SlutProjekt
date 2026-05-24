@@ -47,11 +47,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 185609743
-      Data2: 1074118327
-      Data3: 1551838360
-      Data4: 790054806
-    Path: event:/Sound Design/Ambiance/Amb_Outside
+      Data1: -328906629
+      Data2: 1312189100
+      Data3: 639881893
+      Data4: -417942081
+    Path: event:/Sound Design/Ambiance/Amb_Manager
   Event: 
   EventPlayTrigger: 0
   EventStopTrigger: 0
@@ -374,7 +374,7 @@ MonoBehaviour:
     musicBoss: {fileID: 3257842776572977270}
     musicPause: {fileID: 4860983653683116548}
     snapShotPause: {fileID: 7484880938483047845}
-    ambiance: {fileID: 0}
+    ambiance: {fileID: 644460292927741878}
   playerFootsteps:
     Guid:
       Data1: 280176199
@@ -433,11 +433,11 @@ MonoBehaviour:
     Path: 
   doorSwitch:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1062789551
+      Data2: 1131082513
+      Data3: -274534750
+      Data4: -1701894654
+    Path: event:/Sound Design/Interactables/Door_Light
   doorOpen:
     Guid:
       Data1: 0

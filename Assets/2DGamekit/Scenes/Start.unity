@@ -29073,43 +29073,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
-      propertyPath: playerHurt.Path
-      value: event:/Sound Design/Player/Player_Hurt
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
       propertyPath: enemyRanged.Path
       value: event:/Sound Design/Enemies/Spitter_Atk
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: wallDestroy.Path
-      value: event:/Sound Design/Interactables/Breakable_Wall
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerFootsteps.Path
-      value: event:/Sound Design/Player/Player_Footsteps
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerHurt.Guid.Data1
-      value: 361423959
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerHurt.Guid.Data2
-      value: 1305286882
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerHurt.Guid.Data3
-      value: 871488933
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerHurt.Guid.Data4
-      value: -423121726
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
@@ -29130,71 +29095,6 @@ PrefabInstance:
         type: 3}
       propertyPath: enemyRanged.Guid.Data4
       value: 638874629
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: wallDestroy.Guid.Data1
-      value: -1274065263
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: wallDestroy.Guid.Data2
-      value: 1135830971
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: wallDestroy.Guid.Data3
-      value: 392863378
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: wallDestroy.Guid.Data4
-      value: -1996885085
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerAttackRanged.Path
-      value: event:/Sound Design/Player/Player_Atk_Ranged
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerFootsteps.Guid.Data1
-      value: 280176199
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerFootsteps.Guid.Data2
-      value: 1207372842
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerFootsteps.Guid.Data3
-      value: 1309995158
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerFootsteps.Guid.Data4
-      value: 998262555
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerAttackRanged.Guid.Data1
-      value: 1753858269
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerAttackRanged.Guid.Data2
-      value: 1213639741
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerAttackRanged.Guid.Data3
-      value: 1279823770
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerAttackRanged.Guid.Data4
-      value: 2038261246
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
