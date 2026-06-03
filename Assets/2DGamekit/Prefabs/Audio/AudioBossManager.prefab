@@ -50,21 +50,21 @@ MonoBehaviour:
       Data2: 1210537052
       Data3: 1243951254
       Data4: -196896435
-    Path: event:/Sound Design/Enemies/Boss_Gunner_Walk
+    Path: event:/Sound Design/Enemies/Boss/Boss_Gunner_Walk
   bossLaserAttack:
     Guid:
       Data1: -1051648627
       Data2: 1245817413
       Data3: -924235640
       Data4: 905787321
-    Path: event:/Sound Design/Enemies/Boss_Laser_Atk
+    Path: event:/Sound Design/Enemies/Boss/Boss_Laser_Atk
   bossGrenadeAttack:
     Guid:
       Data1: 1293554561
       Data2: 1262359662
       Data3: -177466182
       Data4: 741625397
-    Path: event:/Sound Design/Enemies/Boss_Gunner_Grenade
+    Path: event:/Sound Design/Enemies/Boss/Boss_Gunner_Grenade
   bossLightningAttack:
     Guid:
       Data1: -698058754

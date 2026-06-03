@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2210619674221862878}
   - component: {fileID: 644460292927741878}
+  - component: {fileID: 6775164780239449185}
   m_Layer: 0
   m_Name: Ambiance
   m_TagString: Untagged
@@ -63,6 +64,19 @@ MonoBehaviour:
   OverrideAttenuation: 0
   OverrideMinDistance: 1
   OverrideMaxDistance: 20
+--- !u!114 &6775164780239449185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1006535914607164712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e964efe0e8cd4ddba522c37df205aa5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioEmitterPosition
+  tagName: Player
 --- !u!1 &1146472850133498800
 GameObject:
   m_ObjectHideFlags: 0
@@ -461,11 +475,11 @@ MonoBehaviour:
     Path: 
   acidSplash:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1798887140
+      Data2: 1245502900
+      Data3: 473261221
+      Data4: -228861465
+    Path: event:/Sound Design/Ambiance/Amb_AcidPoolSplash
   boxPush:
     Guid:
       Data1: 0
