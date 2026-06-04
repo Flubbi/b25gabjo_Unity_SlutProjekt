@@ -468,11 +468,11 @@ MonoBehaviour:
     Path: event:/Sound Design/Interactables/Key_Pickup
   pressurePad:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 877462572
+      Data2: 1171860001
+      Data3: -1681278547
+      Data4: -1941347085
+    Path: event:/Sound Design/Interactables/Pressure_Plate
   acidSplash:
     Guid:
       Data1: 1798887140
@@ -482,25 +482,25 @@ MonoBehaviour:
     Path: event:/Sound Design/Ambiance/Amb_AcidPoolSplash
   boxPush:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -336862532
+      Data2: 1101833375
+      Data3: 1635142054
+      Data4: -281266828
+    Path: event:/Sound Design/Interactables/Box_Push
   menuClick:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -932767819
+      Data2: 1190664068
+      Data3: -488100210
+      Data4: 1629232649
+    Path: event:/Sound Design/UI/Menu_Button_Click
   menuStartGame:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -215619023
+      Data2: 1179178672
+      Data3: -1682675545
+      Data4: 1752251468
+    Path: event:/Sound Design/UI/Menu_Button_Start
   enemyFootstep:
     Guid:
       Data1: -490307820
