@@ -507,28 +507,28 @@ MonoBehaviour:
       Data2: 1299540027
       Data3: -2075159629
       Data4: -211366387
-    Path: event:/Sound Design/Enemies/Chomper_Move
+    Path: event:/Sound Design/Enemies/ChompSpit/Chomper_Move
   enemyRanged:
     Guid:
       Data1: -440920589
       Data2: 1246051426
       Data3: -2105982288
       Data4: 638874629
-    Path: event:/Sound Design/Enemies/Spitter_Atk
+    Path: event:/Sound Design/Enemies/ChompSpit/Spitter_Atk
   enemyMelee:
     Guid:
       Data1: -1422820661
       Data2: 1168389004
       Data3: -1272118115
       Data4: -1201747572
-    Path: event:/Sound Design/Enemies/Chomper_Atk
+    Path: event:/Sound Design/Enemies/ChompSpit/Chomper_Atk
   enemyDeath:
     Guid:
       Data1: 429951921
       Data2: 1093938352
       Data3: 1389409168
       Data4: -508440935
-    Path: event:/Sound Design/Enemies/Enemy_Death
+    Path: event:/Sound Design/Enemies/ChompSpit/Enemy_Death
   stingerGameOver:
     Guid:
       Data1: 715162006
