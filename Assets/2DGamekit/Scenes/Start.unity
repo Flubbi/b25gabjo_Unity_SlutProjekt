@@ -29074,7 +29074,7 @@ PrefabInstance:
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: enemyRanged.Path
-      value: event:/Sound Design/Enemies/ChompSpit/Spitter_Atk
+      value: event:/Sound Design/Enemies/Enemy_Small/Spitter_Atk
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
