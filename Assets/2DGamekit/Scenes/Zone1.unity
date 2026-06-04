@@ -31891,7 +31891,7 @@ PrefabInstance:
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
       propertyPath: audioSettings.Array.size
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
@@ -31912,6 +31912,16 @@ PrefabInstance:
         type: 3}
       propertyPath: audioSettings.Array.data[1].action
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
+        type: 3}
+      propertyPath: audioSettings.Array.data[0].parameter
+      value: Locations
+      objectReference: {fileID: 0}
+    - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
+        type: 3}
+      propertyPath: audioSettings.Array.data[0].saveParam
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8283495161900147265, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
@@ -48969,7 +48979,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 1.033598, y: -0.71902657}
+  m_Offset: {x: 4.7142487, y: -1.1943991}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -48979,7 +48989,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 13.313314, y: 16.638805}
+  m_Size: {x: 22.533112, y: 17.58955}
   m_EdgeRadius: 0
 --- !u!114 &2032163624
 MonoBehaviour:
@@ -49009,9 +49019,9 @@ MonoBehaviour:
   Preload: 0
   NonRigidbodyVelocity: 0
   Params: []
-  OverrideAttenuation: 0
-  OverrideMinDistance: 1
-  OverrideMaxDistance: 20
+  OverrideAttenuation: 1
+  OverrideMinDistance: 3.8780375
+  OverrideMaxDistance: 24.888634
 --- !u!4 &2032163625
 Transform:
   m_ObjectHideFlags: 0
